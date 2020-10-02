@@ -1,0 +1,8 @@
+/* CSS Document */
+*, *::after, *::before {
+  box-sizing:border-box;  
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+}
